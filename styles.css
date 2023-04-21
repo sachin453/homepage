@@ -1,7 +1,7 @@
 body{
     background-image: url("bg.jpg");
     background-size: cover;
-    color: white;
+    color: rgb(232, 245, 232);
     font-family: rockwell;
     font-size: 20px;
     font-weight: 500;
@@ -53,9 +53,10 @@ body{
 p{
     font-size: 20px;
     font-weight: 500;
+    display: inline;
 }
 a{
-    color: yellow;
+    color: skyblue;
 }
 h2{
     color: yellow;
