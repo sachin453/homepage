@@ -1,0 +1,16 @@
+body {
+  background-image: url('AT9838.jpg');
+  background-size: cover;
+  font-family: arial;
+}
+.main {
+  border-radius: 10px;
+  background-color: rgba(191, 169, 223, 0.7);
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.blog_title {
+  color: blue;
+}
