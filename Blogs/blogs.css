@@ -1,7 +1,10 @@
 body {
-  background-image: url('AT9838.jpg');
+  background-image: url('bg.jpg');
   background-size: cover;
-  font-family: arial;
+  color: white;
+  font-family: rockwell;
+  font-size: 20px;
+  font-weight: 500;
 }
 .main {
   border-radius: 10px;
